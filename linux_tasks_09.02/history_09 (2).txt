@@ -1,0 +1,32 @@
+   0 > file.txt
+   1 >> file2.txt
+   2 ls -l
+   3 df 
+   4 df | head -1
+   5 df | head -2 | tail -1
+   6 cp readme.txt /tmp/
+   7 cat hello.c 
+   8 ls -l
+   9 ls -l /
+  10 ls -l /bin
+  11 pwd
+  12 top
+  13 df 
+  14 df | tail -3
+  15 cat readme.txt 
+  16 cat readme.txt | sed 's/Run/ivan/'
+  17 mkdir /opt/ivan
+  18 mkdir -p /opt/ivan
+  19 mkdir /tmp/ivan /var/temp
+  20 touch /tmp/ivan/test2.txt
+  21 ды 
+  22 ls
+  23 pwd
+  24 cat /root/readme.txt >> /tmp/ivan/test2.txt
+  25 date
+  26 date >> /tmp/ivan/test2.txt 
+  27 mv /tmp/ivan/test2.txt /var/temp/
+  28 rm -r /tmp/ivan/
+  29 history
+  30 cat /var/temp/test2.txt 
+  31 history > history_09.txt

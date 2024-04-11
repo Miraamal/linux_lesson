@@ -1,0 +1,7 @@
+   0 date > myfile.txt
+   1 df -h / >> myfile.txt
+   2 history >> myfile.txt
+   3 cat /proc/cpuinfo | grep "vendor" | sort >> myfile.txt
+   4 vi myfile.txt
+   5 cat myfile.txt > my_new_file.txt
+   6 history > my_new_file.txt

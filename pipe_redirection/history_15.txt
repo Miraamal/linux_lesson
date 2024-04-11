@@ -1,0 +1,59 @@
+   0 df 
+   1 df -h
+   2 cat readme.txt 
+   3 ls
+   4 ls -al
+   5 touch .file
+   6 ls
+   7 ls -a
+   8 df -h
+   9 df -h | head 
+  10 df -h | head -1
+  11 df -h | head -2
+  12 df -h | head -2 | tail -1
+  13 grep --help
+  14 df -h | head -2 | tail -1
+  15 df -h 
+  16 df -h | grep root
+  17 df -h | grep /
+  18 df -h | grep -w /
+  19 df -h | grep G
+  20 df -h | grep -w / | awk '{print $5}'
+  21 df -h | grep -w / | awk '{print $2}'
+  22 df -h | a
+  23 df -h | grep -w / | awk '{print $5}'
+  24 df -h | grep 47
+  25 df -h | grep -w / | awk '{print $5}'
+  26 df -h | grep -w / | awk '{print $5}' > file.txt
+  27 df -h | awk '{print $5}' | grep 47
+  28 df -h 
+  29 df -h | awk '{print $5}' 
+  30 df -h | awk '{print $5}' | grep 47
+  31 sed
+  32 df -h | awk '{print $5}' | grep 47
+  33 df -h | awk '{print $5}' | grep 47 | sed 's/%/ /'
+  34 df -h | awk '{print $5}' | grep 47 | sed 's/%//'
+  35 echo hello
+  36 echo "hello"
+  37 echo 'hello'
+  38 ./readme.txt 
+  39 df -h | awk '{print $5}' | grep 47 | sed 's/%//' >> file.txt 
+  40 df -h
+  41 history
+  42 clear
+  43 df -h
+  44 df -h | head -2 | tail -1
+  45 df -h | head -2 | tail -1 | awk '{print $6}'
+  46 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's///\/'
+  47 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's/ / /\/'
+  48 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's/// \/'
+  49 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's/ //\/'
+  50 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's/ / /\/'
+  51 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's///\/'
+  52 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's///*/'
+  53 df -h | head -2 | tail -1 | awk '{print $6}' | sed 's?/?*?'
+  54 df -h | head -2 | tail -1 | awk '{print $6}' | sed 'sD/D*D'
+  55 vi file.txt 
+  56 ls -l
+  57 vi file.txt 
+  58 history > history_15.txt

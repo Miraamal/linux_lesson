@@ -1,0 +1,37 @@
+   0 vi /tmp/ivan/123/file1.txt
+   1 mkdir /opt
+   2 mkdir -p /opt
+   3 mkdir /tmp/123
+   4 mkdir /opt/ivan/petya
+   5 ls /
+   6 ls --help
+   7 vi /tmp/file1.txt
+   8 ls -l
+   9 cp readme.txt /tmp
+  10 cat readme.txt 
+  11 cat readme.txt > /opt/readme.txt
+  12 vi /tmp/file1.txt
+  13 cat /tmp/file1.txt 
+  14 cat /tmp/file1.txt | grep jw
+  15 cat /tmp/file1.txt | grep -o jw 
+  16 cat /tmp/file1.txt | grep -o j
+  17 vi 
+  18 fg
+  19 bg
+  20 nano 
+  21 nano /var/file3.txt 
+  22 history
+  23 history | grep vi
+  24 nano /bin/ls
+  25 sudo nano /bin/ls
+  26 ls -l /bin/
+  27 echo "hbhrbhrbhirebhrbirhb" >> /bin/ls
+  28 sudo echo "hbhrbhrbhirebhrbirhb" >> /bin/ls
+  29 chmod 777 /bin/ls
+  30 echo "hbhrbhrbhirebhrbirhb" >> /bin/ls
+  31 nano /bin/ls
+  32 mkdir -p /tmp/folder567 | touch /tmp/folder567/file6.txt
+  33 tree /tmp/
+  34 ps -ef | tail +2
+  35 "
+  36 history > history_16_02.txt

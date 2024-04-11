@@ -1,0 +1,86 @@
+   0 ls
+   1 jjrbfurbf
+   2 ls
+   3 ls /opt
+   4 tree
+   5 uyewvfuevfuyevf
+   6 date
+   7 date --help
+   8 date 
+   9 date +'%D'
+  10 date +'%d'
+  11 date +'%T'
+  12 date +'%M'
+  13 date +'%m'
+  14 date +'%D'
+  15 date +'%T'
+  16 echo hello
+  17 echo hello from telran
+  18 echo "hello from telran"
+  19 echo 'hello from telran'
+  20 ls 
+  21 cat readme.txt 
+  22 echo "hello"
+  23 echo "hello" > file.txt
+  24 ls
+  25 ls -l
+  26 > file2.txt
+  27 > readme.txt 
+  28 ls -l
+  29 touch hello.js 
+  30 ls -l
+  31 ls -l 
+  32 echo "hello" > bench.py 
+  33 ls -l
+  34 >> hello.c 
+  35 ls -l
+  36 echo "hello" >> file.txt 
+  37 ls -l
+  38 cat file.txt 
+  39 ls -l
+  40 touch hello.js 
+  41 ls -l
+  42 >> hello.c 
+  43 ls -l
+  44 cat hello.js 
+  45 history 
+  46 lslslsls
+  47 ls -l
+  48 cat hello.js 
+  49 cat hello.js > readme.txt 
+  50 ls
+  51 ls > readme.txt 
+  52 ls -l
+  53 cat readme.txt 
+  54 >> vasya.txt
+  55 ls
+  56 >> /opt/petya.txt
+  57 pwd
+  58 cat /etc/group
+  59 cat /etc/group | wc 
+  60 wc --help
+  61 cat /etc/group | wc -c
+  62 cat /etc/group | wc -l
+  63 cat /etc/group | head
+  64 cat /etc/group | tail
+  65 cat /etc/group | head -n 3
+  66 cat /etc/group | head -3
+  67 cat /etc/group | head -1
+  68 cat /etc/group | tail -3
+  69 cat /etc/group | tail -1
+  70 df
+  71 df -h
+  72 restart 
+  73 sudo restart 
+  74 df -h | tail -1
+  75 df -h | head -2
+  76 df -h | head -2 | tail -1
+  77 df | head -2 | tail -1
+  78 free
+  79 free -h
+  80 free -m
+  81 free -b
+  82 free -m
+  83 df | head -2 
+  84 df | head -2 | tail -1
+  85 history > history_08.txt
