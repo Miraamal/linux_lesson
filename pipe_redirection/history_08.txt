@@ -5,7 +5,7 @@
    4 tree
    5 uyewvfuevfuyevf
    6 date
-   7 date --help
+   
    8 date 
    9 date +'%D'
   10 date +'%d'
